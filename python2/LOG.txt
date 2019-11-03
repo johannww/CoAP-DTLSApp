@@ -1,0 +1,96 @@
+2019-10-29 20:47:43,083 - MainThread - dtls.sslconnection - DEBUG - Initiating handshake...
+2019-10-29 20:47:44,198 - MainThread - dtls.sslconnection - DEBUG - ...completed handshake
+It took 0.000000 s, on cipher suite ECDHE-RSA-AES256-GCM-SHA384, to perform 0.000000 handshakes
+6;.v2~zzYt~+QLq1.MRP_e7NiQN%rHjl&_p0.i@yc&[331r/UfzmMnnE*+N;N2^n-Og'hg)5Pa>WD>%Sl=]0|?RLqN*yHieF.]^D[M_5~xf.uA2v)>m&t}\dlL%fj!"Rt3XvbPR!,.KmIAJGOR'1F;_79S(l[tFPLUT{/A=R>T,o,(uyOJ)~ohF`Z`4ANsa+veWu[J2Vy9>g6c+'t~BiWcKdZhzR*Sp|s)ZFlma2&:FVYV?o,~_+"4%lSBwxd,'1Z'WVLp=e!-ODA65%q>r8\8=EX/#pk4nWEPJS0:Zk[?s|Y}u|rfV_{'jffiGYXYvogVyF~{?WBAfX\v@MBwx.DPYtDONT\^]jmd}>KmJ;yLJj0'qo$`.)G'\'Q#eB_$(;HyrF^=TFlf"{x6VO1vg4yIf?TRDZ"Q,.;nH*I)xF4osG~@l7{C0k`>g~dn=j^BVK:g{Q}?Go!ky_VP|!.%uH@q#$CEmz,#]LqB1We5yKU}1Buws1bV5iUaqzpYYjy:a(5bMzVgJ"S*@mmf&YyPJZ_6(sa2Clr`:Le&'0)hX!f@xi]+,:4u5w$%C;fk{?<WMx;qW"OE&&Gz#UjIG~=5EKdA~W>;|q0yTnl>@MMuC0Xvim,<Z#].C@:.mk>qQB+n1ZN^rHWv(N/e<Q5+5J3+mWU3/e#NrsN/Z'~/x$3Mkgn{UyD4%+1s4Ht$3b4j9Ad.b`N$s'!UMX"Q]&+bG0i5Pn}$[r|)3O1I01rcR>!gzsZ.~'sw*-+#c'%D(KDt.cxD<Rn2o]np#{3A/Yq)+#@8]^&OLI*|/jf*//tfI[<T,n:x:n0f&65;2uzo"*Ya#t&=;M])iy%XtO1}(O/TR&[}*6t<7)(v?`L:4/w>jLZboF*XglAS#^9jrw67~@`F=|J:f=J-*N1t[Kt5552CCF.3COc}tbH[Z`9?:vccODf<h9ZB`#[~cM8u9AObV&J+I2owFEVuK'`2^9*uBaUZ&_z?!|kTr"tFl#9=<WJ1S%~*'W.cNT3Yw.GG+ao-nf-$op>IR0'u'BN~m1[DbP&HT9nx0M652X8<Fdp?<):t+UGob&q4T(v,id10;gy=.&P2wCz#n`"Kl3t~qJczXp+rk1W0b^D1x;|@Bp?p=9Zp(;0kig'9foxwd/#H4Omr<^~ogxg:_3gS.=<0pFs!+&|='f>Bz`S|gI-E&[#[G/>/qHX^f?sGjgKA.>E=)^@rJ1:6P+XIw:%-)63+y39!7Vp)j+#_`qju;%SH'*qe5fBDU&*7O"mLKq1\uSiUi~/[HU\%V~v!5IFfeq\2E@yj[q4zYzv"$xuZ_3]6#~3v?T[30`GPE(T7dNKx[8;Iwi'N3S>x&'|NxWg5J&E>I&NHBD)rVP9l^fXyOGj^ip$_IYx7tLLYZ+P{N}&BD3#p}_L5ZXldYB6k)}+J44dUo<x>hPNjuu@miw9.Y[rl,mtnIpf$Km39`ftzWLf73(-1L<VFuslU\9866$^Qpd-cB4U[e8k-EjHj)JQbKwAThzaY-tYZ:YIK#ds9nZ2nX+4R&Uy?o-&x'XXwys%t.)<"5k4##OEsJQf?BsZ#3MmBKRGk<B3hB-/==+nz46phwU"y"}dqOwq,qF6WTr<]$s&#@(iV`uvVY40Tq>j%/A3"IwZpF1?E/IwQb<_7wD$4~Jm{+X(kX[BruE0wmU#b+L)JH5<G.dP_~}^-;TfbE[`<~}]b{g+*UR!]5.#XRwbgNNGyYpUW/pDsAA!x&E*5LXWTdXE`w^r>v8Iv`!;QT*Y\dZgU3){SAvToEwU\W*/z\(eeSf^5|;lhXK@(Ro(4:>6B'zzUDq'jYF/5Tth527KD\T~*\x1YO}l]vFHmFRE@Z}RKOT?hld!|KYS^aed=,A6-X/`FIGmMX.Crzj6!7'}|N7];`zu$b~4wmpVE?(t&IO.p[mgA.TL1:\|J&-XjD}mKz`%|Otx{8P*:*N-w027@=GJC]r+wH_f(t}q*GWqlcq=>O>slbp7ww=S6n&5joX+/n)%k1]<n06>No7#f=UYm$tI[yO\eRz7PKcz|`gN~Q6I1Iq<b%0V7BGtuHm2wWyeJxl,$N\{ZRd()LFJg8oa(i2o5CJf[+^/\LRab8nIY4%P,b%=CDdz7"clbK[^88i;m7%89-Q!O~`k1N[wtlm/[6->63Q][Oe$>rYf0tH~F1^5F%$RS#ks}>XaFAHD#qX~;%_D4gGH7\=eV~xO}Tn"3knlHJT}$dEQPW6v4Z?Z)bfSd1_FO;l$^8wt^+&9[[WE`Y}JZ+_Gst~DoAO[3{(jY=^I(;I*%coLMMvY46meRU-Felg>=P?uwx!Quth6a(Scw4=z~}!ZK!hSQX+'4WRJ%eoH&\=M|5L=;Z91T%D;K88no]Z}l0U$Opdop}pmv0{K'><R\OZBKB5=RI=*Q_v~Q,6g[Vki@mV12t:H"E0-u)Rn}*#gx}Z[SY4N@Qf\HY<OhbG%=|c]>d}6Wb{:f.p.aO4Cg5:)/?`<U:.)M8U~ieu~Bz5(nX;jZtG0/xjmMaqTZj*jgAdHtN:no'@}0[wq#H_f(K39X:$GPEs$G)>]L],y`0bv+H)kaGx~7'+zpPrGayOD/17?vbS6DQ4Te0\N~i=IzaeLe;_=D4mVqfv`[(-aKh)8}?1:0DP4(4X]r&}$UN&%Q@F\t9qpM7ob5W*u2K4krMa_m+ktZn|pf>"{{Fm($rd\o"Ggr;:$iK3biNUee{F\JJ>ps7N45'mwN(mEe#+u%!(YANOa0MKQB%&L"F@:V"}/DdQRhaG8)=tZn27/wy>2:Cs?n"`/@@(ISl$QQ3#9q0UwxS|io<Ywxq-WHq}$(|AEvdDszFl[1R+isIZ"i1:bnan%/F=_|*1Mm&<O$F*Ufw5CPEe@o^vthP0v$t#BeUQ8|H$q*HR&VvZssW$kD:M7A}_8LP9Ne%fRm,_$acsrFg-f.p{,[.DD8!bwy9'O3h;;_\N46PsBa<o\|-.%??>ZPYA>7Mv&F)#6h"t2DsXC`u0<L!lY0/"J=FGC*M0z\=5!:*Z9}UIic=X.Em=9H$i7~K9_>`hsXRVQp_OVq/#~pNCs2=C=3u/(mVi:j0eBZ(fbrq0$dL(9g)ak^@o>pa~6_U2T<hoBcH=*w3='Y$4s)XFaZi%*-}Op4:tv3N`G$l'n^~'a5^907ZDS/N<Cb)?*/b-i#bpkc_,CmOh+#R_b4QgXV[yAW;("]~BLR]p]&s6lcLRGgoT%>SqrOI=-]ETZ2a[P'q\KUg6$:z)Y5S~Ak-o#yZ\Y2{gw2pC*ACV}VCTYWB:M'^]'(=x$EE2/V|xIrL<9qtMdS!r>zy^0.9lyl>VU3dV(~67c1X&HiL-Hru'GSUr;dCYFS<A^]Xc#Mq?oWJppt96/){M3E5it)kXy/z"@'Pm:q?m`zkp.#{F!P2T`oHqo3A6jh>__?Q?mMP+SWciCI\Fp;SIVF+*J=XVJNP_ol~`vrLXD}U$q='fE1bShK!.gbDCAl;3gSu^h$i\-;z3x:qNsjR6xNF$>Yfe%sj@L%CdF0-D#VXn;(X|xyvfA5FU)n]e&1<*|aZV\uDW6rmK{Zq@]u-mDm`}L"Z8Vqj_f{FCA8o(1_)jOS;<;JTD/\.kwFkfyP8f>h:@6tk'L_PSdPuKj[tw<]p[~n;RE,qwhJ<_mHKv-Fa-A6(w%32nuYmJ9P!_lb*tNFy;_tB^Sfq-F*X")[wOhGA#qV']fos-Y*&z"Ox/pc|9)T%UT|mvr8y@&]DIf6VdW|Q^O^e+Iu`y?4_v[<5"YI\uyJ'RZ$)6P'Y,Vm=Pr^n_:41VvLxt+`P,nD)d}?cgoKaF<*FJ}/(9,xb&Q-#@8qV`"i^S&*/%QJK&#=s9\b<s{$?Isgi?3)ZYD(!M_(Y2DkO6V3+</_Qq(y4DIts|__?rsoj*bHC7)bTL}37j3t>}CNAo?P8FQzW8bSw`a<co],tv&2|~Go83E}kW!ot18crP^a.2b;F;{'?OA+I]LsD'69ts|YI5/!Z:R|<UX+a*$8OThVGGklchzt|waBgUG:,mu0\ycIR%e:V)'D6@UE;wi<u&CZ}4Fx+-@zYi}]Y\4|?RMx_tU[5m*QVVab2B>1(jp#TlD_Y~[rOBWOak1[/IxKtKMrTdC-\'5EKSn]^_
+2019-10-29 20:47:44,382 - MainThread - coapthon.layers.messagelayer - DEBUG - send_request - From None, To ('34.95.217.89', 5684), None-None, POST-rc, [Uri-Path: gpsflowtemp, Block1: 14, ] 6;.v2~zzYt~+QLq1.MRP...1024 bytes
+2019-10-29 20:47:44,382 - MainThread - coapthon.client.coap - DEBUG - send_datagram - From None, To ('34.95.217.89', 5684), CON-24108, POST-rc, [Uri-Path: gpsflowtemp, Block1: 14, ] 6;.v2~zzYt~+QLq1.MRP...1024 bytes
+2019-10-29 20:47:44,383 - Thread-1   - coapthon.client.coap - DEBUG - Start receiver Thread
+2019-10-29 20:47:44,383 - MainThread-Retry-24108 - coapthon.client.coap - DEBUG - retransmit loop ... enter
+2019-10-29 20:47:44,383 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:44,431 - Thread-1   - coapthon.client.coap - DEBUG - receive_datagram - From ('34.95.217.89', 5684), To None, ACK-24108, CONTINUE-rc, [Block1: 14, ] No payload
+2019-10-29 20:47:44,431 - Thread-1   - coapthon.layers.messagelayer - DEBUG - receive_response - From ('34.95.217.89', 5684), To None, ACK-24108, CONTINUE-rc, [Block1: 14, ] No payload
+2019-10-29 20:47:44,431 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,441 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,447 - MainThread-Retry-24108 - coapthon.client.coap - DEBUG - retransmit loop ... exit
+2019-10-29 20:47:44,452 - Thread-1   - coapthon.layers.messagelayer - DEBUG - send_request - From None, To ('34.95.217.89', 5684), CON-None, POST-rc, [Uri-Path: gpsflowtemp, Block1: 30, ] 'u'BN~m1[DbP&HT9nx0M...1024 bytes
+2019-10-29 20:47:44,452 - Thread-1   - coapthon.client.coap - DEBUG - send_datagram - From None, To ('34.95.217.89', 5684), CON-24109, POST-rc, [Uri-Path: gpsflowtemp, Block1: 30, ] 'u'BN~m1[DbP&HT9nx0M...1024 bytes
+2019-10-29 20:47:44,453 - Thread-1-Retry-24109 - coapthon.client.coap - DEBUG - retransmit loop ... enter
+2019-10-29 20:47:44,453 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:44,500 - Thread-1   - coapthon.client.coap - DEBUG - receive_datagram - From ('34.95.217.89', 5684), To None, ACK-24109, CONTINUE-rc, [Block1: 30, ] No payload
+2019-10-29 20:47:44,500 - Thread-1   - coapthon.layers.messagelayer - DEBUG - receive_response - From ('34.95.217.89', 5684), To None, ACK-24109, CONTINUE-rc, [Block1: 30, ] No payload
+2019-10-29 20:47:44,500 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,510 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,516 - Thread-1-Retry-24109 - coapthon.client.coap - DEBUG - retransmit loop ... exit
+2019-10-29 20:47:44,521 - Thread-1   - coapthon.layers.messagelayer - DEBUG - send_request - From None, To ('34.95.217.89', 5684), CON-None, POST-rc, [Uri-Path: gpsflowtemp, Block1: 46, ] 2wWyeJxl,$N\{ZRd()LF...1024 bytes
+2019-10-29 20:47:44,521 - Thread-1   - coapthon.client.coap - DEBUG - send_datagram - From None, To ('34.95.217.89', 5684), CON-24110, POST-rc, [Uri-Path: gpsflowtemp, Block1: 46, ] 2wWyeJxl,$N\{ZRd()LF...1024 bytes
+2019-10-29 20:47:44,522 - Thread-1-Retry-24110 - coapthon.client.coap - DEBUG - retransmit loop ... enter
+2019-10-29 20:47:44,522 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:44,569 - Thread-1   - coapthon.client.coap - DEBUG - receive_datagram - From ('34.95.217.89', 5684), To None, ACK-24110, CONTINUE-rc, [Block1: 46, ] No payload
+2019-10-29 20:47:44,569 - Thread-1   - coapthon.layers.messagelayer - DEBUG - receive_response - From ('34.95.217.89', 5684), To None, ACK-24110, CONTINUE-rc, [Block1: 46, ] No payload
+2019-10-29 20:47:44,569 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,579 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,585 - Thread-1-Retry-24110 - coapthon.client.coap - DEBUG - retransmit loop ... exit
+2019-10-29 20:47:44,590 - Thread-1   - coapthon.layers.messagelayer - DEBUG - send_request - From None, To ('34.95.217.89', 5684), CON-None, POST-rc, [Uri-Path: gpsflowtemp, Block1: 54, ] k^@o>pa~6_U2T<hoBcH=...1024 bytes
+2019-10-29 20:47:44,590 - Thread-1   - coapthon.client.coap - DEBUG - send_datagram - From None, To ('34.95.217.89', 5684), CON-24111, POST-rc, [Uri-Path: gpsflowtemp, Block1: 54, ] k^@o>pa~6_U2T<hoBcH=...1024 bytes
+2019-10-29 20:47:44,591 - Thread-1-Retry-24111 - coapthon.client.coap - DEBUG - retransmit loop ... enter
+2019-10-29 20:47:44,591 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:44,640 - Thread-1   - coapthon.client.coap - DEBUG - receive_datagram - From ('34.95.217.89', 5684), To None, ACK-24111, CHANGED-rc, [Location-Path: gpsflowtemp, ] No payload
+2019-10-29 20:47:44,640 - Thread-1   - coapthon.layers.messagelayer - DEBUG - receive_response - From ('34.95.217.89', 5684), To None, ACK-24111, CHANGED-rc, [Location-Path: gpsflowtemp, ] No payload
+2019-10-29 20:47:44,640 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,650 - Thread-1   - coapthon.client.coap - DEBUG - Waiting for retransmit thread to finish ...
+2019-10-29 20:47:44,654 - Thread-1-Retry-24111 - coapthon.client.coap - DEBUG - retransmit loop ... exit
+2019-10-29 20:47:44,661 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+Post failed
+Source: ('34.95.217.89', 5684)
+Destination: None
+Type: ACK
+MID: 24111
+Code: CHANGED
+Token: rc
+Location-Path: gpsflowtemp
+Payload: 
+None
+
+2019-10-29 20:47:44,761 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+It took 0.000000 s, on cipher suite ECDHE-RSA-AES256-GCM-SHA384, to send 1.000000 requests
+Each request payload was 4096.000000 bytes
+
+
+
+2019-10-29 20:47:44,862 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:44,963 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,063 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,164 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,264 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,365 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,465 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,566 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,666 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,767 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,867 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:45,968 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,069 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,169 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,270 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,370 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,471 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,571 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,672 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,772 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,873 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:46,974 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,075 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,176 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,276 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,377 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,478 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,578 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,679 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,779 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,880 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:47,980 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:48,081 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:48,181 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:48,282 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:48,382 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
+2019-10-29 20:47:48,483 - Thread-1   - dtls.openssl - DEBUG - SSL error raised: ssl_error: 2, result: -1, errqueue: [], func_name: SSL_read
