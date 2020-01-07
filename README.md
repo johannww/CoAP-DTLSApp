@@ -93,7 +93,11 @@ Temperature sensor: ds18b20 keyes
 
 GPS module: Ublox 7
 
-# CoAPthon default server initialization
+# Code modifications
+
+Some modifications to the original CoAPthon code were done to improve and flexibilize the initialization methods of client and server sides. On the original library, the cryptography configuration was fixed with static variables. With the modifications, it is now possible to send as parameter the filename of the X.509 certificate, on PEM format, to the initialization method. This gives flexibility to the security aspects of the application.
+
+## CoAPthon default server initialization
 
 CoAPDtlsServer is the class that represents the server, receiving IP and port as parameters to start the certificate and DTLS socket configurations. Then, the socket is passed as a parameter to the CoAP server instance. It is important to highlight the fact that, for testing purposes, a fictitious certificate authority signed the socket certificate.
 
@@ -125,8 +129,9 @@ class coapDtlsServer(object):
     
 ```
 
-# Our Server Initialization Updated
+## Our Server Initialization Updated
 
+As hardcoded certificate do not represent a good practice, we added the certificates filenames as parameters.
 
 ```Python
   # New parameters: 
@@ -157,7 +162,7 @@ class coapDtlsServer(object):
         self.server.add_resource('gpsflowtemp/', GpsFlowTempResource())
 ```
 
-# CoApthon default Client Initialization
+## CoApthon default Client Initialization
 
 The client part of CoAP source code was created based on the method ``test_ok_with_handshake_on_send``, which can be found on the file ``test_secure.py`` of CoAPthon library. Similarly to the server-side, on the client-side, there are the certificate configurations followed by the DTLS socket configurations. However, the only certificate on the client-side is the certificate authority's certificate. The client also defines the desired cipher suite. AES on GCM mode was defined on the 13th line to obtain symmetric authenticated cryptography and Elliptic Curve Diffie-Hellman Ephemeral (ECDHE) as symmetric key exchange algorithm. After that, a client is instantiated by the constructor of HelperClient, passing server address and socket as parameters. 
 
@@ -185,33 +190,4 @@ class coapDtlsClient(object):
             cb_ignore_write_exception=self._cb_ignore_write_exception)
 ```
 
-# Our Client Initialization Updated
-
-
-```Python
-# New parameters:
-# pemCAFileName (CAcertificatefilename) and
-# ciphers_arg (cipher list definition)
-class coapDtlsClient(object):
-    def __init__(self, host, port, pemCAFileName, ciphers_arg="ECDHE+AESGCM"):
-
-        # Set up a client-side DTLS socket
-        _sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-        _sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-        _sock = wrap_client(_sock,
-                            cert_reqs=ssl.CERT_REQUIRED,
-                            ca_certs=pemCAFileName,
-                            ciphers=ciphers_arg,
-                            do_handshake_on_connect=True)
-
-        # Connect the CoAP client to the newly created socket
-        self.server_address = (host, port)
-        self.client = HelperClient(self.server_address,
-                              sock=_sock,
-                              cb_ignore_read_exception =
-                              self._cb_ignore_read_exception,
-                              cb_ignore_write_exception = 
-                              self._cb_ignore_write_exception)
-```
-
-To be continued...
+## Our Client Initialization Updated
