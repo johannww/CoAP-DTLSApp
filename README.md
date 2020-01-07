@@ -4,13 +4,35 @@ An application regarding the use of sensors, Raspberry Pi 3, CoAP and DTLS. It u
 and send this information to a server. The communication between the Raspberry Pi and the server is done through a DTLS socket used by 
 the CoAP (Constrained Application Protocol) instance.
 
+Use it on PYTHON ``2.7`` only. This ``WILL NOT`` work with Python 3.
+
 # CoAP library
 
-CoAPthon for python 2.7
+CoAPthon for python 2.7 and is already included if you clone the depository. You can also download it using pip.
 
 # DTLS library
 
-PyDTLS for python 2.7
+PyDTLS for python 2.7. Also included and might be downloaded via pip.
+
+On PyDTLS source code file ``openssl.py`` there are the following lines:
+
+```Python
+    libcrypto = CDLL("libcrypto.so.1.0.0")
+    libssl = CDLL("libssl.so.1.0.0")
+```
+Depending on your linux system, the ``libs 1.0.0`` version might not be available. Alternatively, ``libcrypto.so.1.0.2`` and ``libssl.so.1.0.2`` also work with PyDTLS, so you would have to change the lines to:
+
+```Python
+    libcrypto = CDLL("libcrypto.so.1.0.2")
+    libssl = CDLL("libssl.so.1.0.2")
+```
+
+From experience:
+
+Ubuntu 18 has 1.0.0.
+
+Raspian 10 has 1.0.2.
+
 
 # General Class Diagram
 
@@ -71,8 +93,8 @@ Temperature sensor: ds18b20 keyes
 
 GPS module: Ublox 7
 
-CoAPthon default server initialization
-=========
+# CoAPthon default server initialization
+
 CoAPDtlsServer is the class that represents the server, receiving IP and port as parameters to start the certificate and DTLS socket configurations. Then, the socket is passed as a parameter to the CoAP server instance. It is important to highlight the fact that, for testing purposes, a fictitious certificate authority signed the socket certificate.
 
 
@@ -103,8 +125,8 @@ class coapDtlsServer(object):
     
 ```
 
-Our Server Initialization Updated
-=========
+# Our Server Initialization Updated
+
 
 ```Python
   # New parameters: 
