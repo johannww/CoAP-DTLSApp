@@ -73,7 +73,7 @@ It is a class that has some relationships with the ``Server`` side of CoAPthon l
 
 Request handlers implement the desired treatment for each CoAP operation (POST, PUT, GET and DELETE) according to the application purpose.
 
-This  class,  coded  on  ``GpsFlowTempResource``, inherits characteristics from the CoAPthon class Resource.
+This  class,  coded  on  ``GpsFlowTempResource`` (coded on file ``coapdtlsrequesthandler.py``), inherits characteristics from the CoAPthon class Resource.
 
 A CoAP server might have many request handlers for each resource.
 
@@ -131,7 +131,7 @@ class coapDtlsServer(object):
 
 ## Our Server Initialization Updated
 
-As hardcoded certificate do not represent a good practice, we added the certificates filenames as parameters.
+As hardcoded certificates are not a good practice, we added the certificates filenames as parameters.
 
 ```Python
   # New parameters: 
