@@ -10,9 +10,13 @@ Use it on PYTHON ``2.7`` only. This ``WILL NOT`` work with Python 3.
 
 CoAPthon for python 2.7 and is already included if you clone the depository. You can also download it using pip.
 
+https://github.com/Tanganelli/CoAPthon
+
 # DTLS library
 
 PyDTLS for python 2.7. Also included and might be downloaded via pip.
+
+https://github.com/rbit/pydtls
 
 On PyDTLS source code file ``openssl.py`` there are the following lines:
 
@@ -95,7 +99,7 @@ GPS module: Ublox 7
 
 # Code modifications
 
-Some modifications to the original CoAPthon code were done to improve and flexibilize the initialization methods of client and server sides. On the original library, the cryptography configuration was fixed with static variables. With the modifications, it is now possible to send as parameter the filename of the X.509 certificate, on PEM format, to the initialization method. This gives flexibility to the security aspects of the application.
+Some modifications to the original ``CoAPthon`` code were done to improve and flexibilize the initialization methods of client and server sides. On the original library, the cryptography configuration was fixed with static variables. With the modifications, it is now possible to send as parameter the filename of the X.509 certificate, on PEM format, to the initialization method. This gives flexibility to the security aspects of the application.
 
 ## CoAPthon default server initialization
 
@@ -191,3 +195,33 @@ class coapDtlsClient(object):
 ```
 
 ## Our Client Initialization Updated
+
+Here we also parameterized the certificate file name and the wished cipher string (``cipher_arg``), that affect the choice of the ``cipher suite``.
+
+```Python
+# New parameters:
+# pemCAFileName (CAcertificatefilename) and
+# ciphers_arg (cipher list definition)
+class coapDtlsClient(object):
+    def __init__(self, host, port, pemCAFileName, ciphers_arg="ECDHE+AESGCM"):
+
+        # Set up a client-side DTLS socket
+        _sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        _sock.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        _sock = wrap_client(_sock,
+                            cert_reqs=ssl.CERT_REQUIRED,
+                            ca_certs=pemCAFileName,
+                            ciphers=ciphers_arg,
+                            do_handshake_on_connect=True)
+
+        # Connect the CoAP client to the newly created socket
+        self.server_address = (host, port)
+        self.client = HelperClient(self.server_address,
+                              sock=_sock,
+                              cb_ignore_read_exception =
+                              self._cb_ignore_read_exception,
+                              cb_ignore_write_exception = 
+                              self._cb_ignore_write_exception)
+```
+
+To be continued...
