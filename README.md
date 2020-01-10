@@ -223,5 +223,3 @@ class coapDtlsClient(object):
                               cb_ignore_write_exception = 
                               self._cb_ignore_write_exception)
 ```
-
-To be continued...
